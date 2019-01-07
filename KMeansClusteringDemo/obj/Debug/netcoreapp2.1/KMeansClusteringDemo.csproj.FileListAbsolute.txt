@@ -1,0 +1,11 @@
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\obj\Debug\netcoreapp2.1\KMeansClusteringDemo.csprojAssemblyReference.cache
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\obj\Debug\netcoreapp2.1\KMeansClusteringDemo.csproj.CoreCompileInputs.cache
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\obj\Debug\netcoreapp2.1\KMeansClusteringDemo.AssemblyInfoInputs.cache
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\obj\Debug\netcoreapp2.1\KMeansClusteringDemo.AssemblyInfo.cs
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\bin\Debug\netcoreapp2.1\KMeansClusteringDemo.deps.json
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\bin\Debug\netcoreapp2.1\KMeansClusteringDemo.runtimeconfig.json
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\bin\Debug\netcoreapp2.1\KMeansClusteringDemo.runtimeconfig.dev.json
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\bin\Debug\netcoreapp2.1\KMeansClusteringDemo.dll
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\bin\Debug\netcoreapp2.1\KMeansClusteringDemo.pdb
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\obj\Debug\netcoreapp2.1\KMeansClusteringDemo.dll
+C:\Users\Deonis\source\repos\KMeansClusteringDemo\KMeansClusteringDemo\obj\Debug\netcoreapp2.1\KMeansClusteringDemo.pdb
